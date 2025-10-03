@@ -32,5 +32,4 @@ window(env)
 
 
 I can be reached at
-Phone: 518 267 9767
-Email: muhadisa93@gmail.com
+Email: madelinedaqiq@gmail.com
